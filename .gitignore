@@ -1,0 +1,13 @@
+# Ignore sensitive files
+exact paasword
+
+# Ignore screenshots if not needed
+*.png
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
